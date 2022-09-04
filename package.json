@@ -1,6 +1,6 @@
 {
   "name": "@usdtcloud/mysql",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "usdtcloud's tools mysql",
   "main": "index.js",
   "scripts": {
