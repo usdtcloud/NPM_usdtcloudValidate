@@ -1,10 +1,9 @@
 {
   "name": "@usdtcloud/mysql",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "usdtcloud's tools mysql",
   "main": "index.js",
   "scripts": {
-    "publish": "npm publish --access public"
   },
   "keywords": [
     "usdtcloud",
