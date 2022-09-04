@@ -1,0 +1,29 @@
+{
+  "name": "@usdtcloud/mysql",
+  "version": "0.0.1",
+  "description": "usdtcloud's tools mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "usdtcloud",
+    "mysql"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usdtcloud/NPM_usdtcloudMysql.git"
+  },
+  "author": "usdtcloud@gmail.com",
+  "authors": [
+    {
+      "name": "usdtcloud",
+      "email": "usdtcloud@gmail.com",
+      "homepage": "https://github.com/usdtcloud"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
