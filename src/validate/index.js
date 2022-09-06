@@ -1,7 +1,7 @@
-const isCnMobile = require('../module/src/isCnMobile');
-const isEmail = require('../module/src/isEmail');
-const isChsAlphaNum = require('../module/src/isChsAlphaNum');
-const isNum = require('../module/src/isNum');
+const isCnMobile = require('../validate/src/isCnMobile');
+const isEmail = require('../validate/src/isEmail');
+const isChsAlphaNum = require('../validate/src/isChsAlphaNum');
+const isNum = require('../validate/src/isNum');
 
 module.exports = {
     isCnMobile,
