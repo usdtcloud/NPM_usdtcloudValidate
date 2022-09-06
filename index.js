@@ -1,2 +1,2 @@
-const validate = require('./src/validate')
+const validate = require('./src/index')
 module.exports = validate
