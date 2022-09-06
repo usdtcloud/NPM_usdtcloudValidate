@@ -1,7 +1,7 @@
-const module = require('./module/index')
+const validate = require('./validate/index')
 const elementUi = require('./elementUi/index')
 
 module.exports = {
-    module:module,
+    validate:validate,
     elementUi:elementUi
 }
