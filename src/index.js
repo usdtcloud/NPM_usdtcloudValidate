@@ -1,12 +1,7 @@
-const isMobile = require('./module/isMobile');
-const isEmail = require('./module/isEmail');
-const isChsAlphaNum = require('./module/isChsAlphaNum');
-const isNum = require('./module/isNum');
-
+const module = require('./module/index')
+const elementUi = require('./elementUi/index')
 
 module.exports = {
-    isMobile,
-    isEmail,
-    isChsAlphaNum,
-    isNum
+    module:module,
+    elementUi:elementUi
 }
