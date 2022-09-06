@@ -1,17 +1,17 @@
 {
-  "name": "@usdtcloud/mysql",
-  "version": "0.0.7",
-  "description": "usdtcloud's tools mysql",
+  "name": "@usdtcloud/validate",
+  "version": "0.0.1",
+  "description": "usdtcloud's tools validate",
   "main": "index.js",
   "scripts": {
   },
   "keywords": [
     "usdtcloud",
-    "mysql"
+    "validate"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/usdtcloud/NPM_usdtcloudMysql.git"
+    "url": "https://github.com/usdtcloud/NPM_usdtcloudValidate.git"
   },
   "author": "usdtcloud@gmail.com",
   "authors": [
@@ -23,6 +23,5 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "mysql": "^2.18.1"
   }
 }

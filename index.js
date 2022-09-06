@@ -1,2 +1,2 @@
-const mysqlClient = require('./src/mysqlClient')
-module.exports = mysqlClient
+const validate = require('./src/validate')
+module.exports = validate
